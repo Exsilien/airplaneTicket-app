@@ -1,0 +1,20 @@
+C:\Users\flush\source\repos\Ticket sales\bin\Debug\net8.0-windows\Ticket sales.exe
+C:\Users\flush\source\repos\Ticket sales\bin\Debug\net8.0-windows\Ticket sales.deps.json
+C:\Users\flush\source\repos\Ticket sales\bin\Debug\net8.0-windows\Ticket sales.runtimeconfig.json
+C:\Users\flush\source\repos\Ticket sales\bin\Debug\net8.0-windows\Ticket sales.dll
+C:\Users\flush\source\repos\Ticket sales\bin\Debug\net8.0-windows\Ticket sales.pdb
+C:\Users\flush\source\repos\Ticket sales\obj\Debug\net8.0-windows\Ticket sales.csproj.GenerateResource.cache
+C:\Users\flush\source\repos\Ticket sales\obj\Debug\net8.0-windows\Ticket sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flush\source\repos\Ticket sales\obj\Debug\net8.0-windows\Ticket sales.AssemblyInfoInputs.cache
+C:\Users\flush\source\repos\Ticket sales\obj\Debug\net8.0-windows\Ticket sales.AssemblyInfo.cs
+C:\Users\flush\source\repos\Ticket sales\obj\Debug\net8.0-windows\Ticket sales.csproj.CoreCompileInputs.cache
+C:\Users\flush\source\repos\Ticket sales\obj\Debug\net8.0-windows\Ticket sales.dll
+C:\Users\flush\source\repos\Ticket sales\obj\Debug\net8.0-windows\refint\Ticket sales.dll
+C:\Users\flush\source\repos\Ticket sales\obj\Debug\net8.0-windows\Ticket sales.pdb
+C:\Users\flush\source\repos\Ticket sales\obj\Debug\net8.0-windows\Ticket sales.genruntimeconfig.cache
+C:\Users\flush\source\repos\Ticket sales\obj\Debug\net8.0-windows\ref\Ticket sales.dll
+C:\Users\flush\source\repos\Ticket sales\obj\Debug\net8.0-windows\Ticket_sales.Auth.resources
+C:\Users\flush\source\repos\Ticket sales\obj\Debug\net8.0-windows\Ticket_sales.BaseAdd.resources
+C:\Users\flush\source\repos\Ticket sales\obj\Debug\net8.0-windows\Ticket_sales.Main.resources
+C:\Users\flush\source\repos\Ticket sales\obj\Debug\net8.0-windows\Ticket_sales.TicketBuy.resources
+C:\Users\flush\source\repos\Ticket sales\obj\Debug\net8.0-windows\Ticket_sales.Properties.Resources.resources
